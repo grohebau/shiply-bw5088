@@ -1,6 +1,6 @@
 {
   "S82714": {
-    "status": "Versandvorbereitung",
+    "status": "Warten auf Zahlung",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Stephan Boremski, Gerstenkamp 18, 48249 Dülmen-Buldern, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "25-09-2025",
-    "deliveryDate": "03-10-2025, 15:30 Uhr",
+    "deliveryDate": "07-10-2025, 11:00 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
